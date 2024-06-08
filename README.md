@@ -5,6 +5,8 @@
 
 -- It launches a dazzling display of ASCII art fireworks across your terminal. It's a great way to create a virtual bonfire
 
+![Screenshot 2024-06-09 020331](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/83b1a660-a5cb-4cf8-9dbd-a5905366d7b9)
+
 ### To install aafire's virtual fire on Debian, Ubuntu, and their derivatives, use -->
 <code>sudo apt install libaa-bin</code>
 
@@ -22,9 +24,55 @@
 
 To quit, just press "q" or "ctrl + c
 
-![Screenshot 2024-06-09 020331](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/83b1a660-a5cb-4cf8-9dbd-a5905366d7b9)
 
-<h2 align="left">1. <code>asciiquarium</code></h2>
+<h2 align="left">2. <code>asciiquarium</code></h2>
 
 -- This command turns your terminal into a vibrant underwater world teeming with life
  
+![Screenshot 2024-06-09 022210](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/8d241430-0a03-4304-a9ac-c493ae9a345d)
+
+## Get this chilling underwater experience on Ubuntu and its derivatives with -->
+
+<code>sudo snap install asciiquarium</code>
+## For RHEL, Fedora, and their derivatives, run -->
+
+<code>sudo dnf install asciiquarium</code>
+## Install it on Arch Linux and its derivatives with -->
+
+<code>sudo pacman -S asciiquarium</code>
+
+When you've installed the command, run it like this:
+
+<code>asciiquarium</code>
+
+When the program is running, you can do a few things with keyboard buttons.
+
+- r : Restart the animation
+- p : Pause or play the animation
+- q : Quit
+
+<h2 align="left">3. <code>Telnet</code></h2>
+
+ -- Want to play chess within the Linux terminal? Type the following command :
+ 
+ <code>telnet freechess.org</code>
+
+ ![09c65f77-freechess-login-ascii-art](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/8799309e-6e2e-435d-b316-33f45d124df3)
+
+
+
+-- If you're a huge Star Wars fan and would like to enjoy the cosmic experience of the franchise on Linux, enter :
+
+<code>telnet towel.blinkenlights.nl 23</code> OR <code>telnet telehack.com && starwars</code>
+
+![Screenshot 2024-06-09 030746](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/a81ee77f-27cb-4470-8b8f-d9883208a3cd)
+
+-- You can even view the entire world map which is **interactive** on Linux using Telnet by typing :
+
+<code>telnet mapscii.me</code>
+
+![Screenshot 2024-06-09 030439](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/612e25f3-7887-438b-82d8-97868cfa9027)
+
+#### When you are done Press Ctrl + ], Type quit, and Press Enter.
+#### Alternatively, you can type exit instead of quit.
+
