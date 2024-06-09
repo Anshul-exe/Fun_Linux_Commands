@@ -216,3 +216,17 @@ When the program is running, you can do a few things with keyboard buttons.
 <code>sudo dnf install rig</code> 
 
 # <h2 align="left">11. <code>toilet</code></h2>
+
+-- The <code>toilet</code> command generates visually appealing ASCII art text-based banners or large letters using various fonts in the terminal
+
+### To install toilet on Ubuntu and Debian -->
+
+<code>sudo apt install toilet</code>
+
+### On Arch-based distributions -->
+
+<code>sudo pacman -S toilet</code>
+
+### On RHEL-based distros like Fedora and CentOS -->
+
+<code>sudo dnf install toilet</code> 
