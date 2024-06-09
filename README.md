@@ -179,3 +179,18 @@ When the program is running, you can do a few things with keyboard buttons.
 
 <code>sudo dnf install fortune-mod</code>
 
+# <h2 align="left">9. <code>oneko</code></h2>
+
+-- The “oneko” is a package that will attach a “Jerry” with your mouse pointer and moves along with your pointer
+
+### To install oneko on Ubuntu/Debian -->
+
+<code>sudo apt install oneko</code>
+
+### Oneko on Arch Linux and similar distributions -->
+
+<code>sudo pacman -S oneko</code>
+
+### Installing oneko on RHEL-based distros like Fedora and CentOS is easy as well -->
+
+<code>sudo yum install oneko</code>
