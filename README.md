@@ -1,7 +1,7 @@
 # **Fun Linux Commands**
 
 ## These are some of the commands I found on online which are easy and fun to use and might help to get your mind off for a minute or two
-<h2 align="left">1. <code>aafire</code></h2>
+# <h2 align="left">1. <code>aafire</code></h2>
 
 -- It launches a dazzling display of ASCII art fireworks across your terminal. It's a great way to create a virtual bonfire
 
@@ -25,23 +25,23 @@
 To quit, just press "q" or "ctrl + c
 
 
-<h2 align="left">2. <code>asciiquarium</code></h2>
+# <h2 align="left">2. <code>asciiquarium</code></h2>
 
 -- This command turns your terminal into a vibrant underwater world teeming with life
  
 ![Screenshot 2024-06-09 022210](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/8d241430-0a03-4304-a9ac-c493ae9a345d)
 
-## Get this chilling underwater experience on Ubuntu and its derivatives with -->
+### Get this chilling underwater experience on Ubuntu and its derivatives with -->
 
 <code>sudo snap install asciiquarium</code>
-## For RHEL, Fedora, and their derivatives, run -->
+### For RHEL, Fedora, and their derivatives, run -->
 
 <code>sudo dnf install asciiquarium</code>
-## Install it on Arch Linux and its derivatives with -->
+### Install it on Arch Linux and its derivatives with -->
 
 <code>sudo pacman -S asciiquarium</code>
 
-When you've installed the command, run it like this:
+#### When you've installed the command, run it like this:
 
 <code>asciiquarium</code>
 
@@ -51,7 +51,7 @@ When the program is running, you can do a few things with keyboard buttons.
 - p : Pause or play the animation
 - q : Quit
 
-<h2 align="left">3. <code>Telnet</code></h2>
+# <h2 align="left">3. <code>Telnet</code></h2>
 
  -- Want to play chess within the Linux terminal? Type the following command :
  
@@ -76,26 +76,87 @@ When the program is running, you can do a few things with keyboard buttons.
 #### When you are done Press Ctrl + ], Type quit, and Press Enter.
 #### Alternatively, you can type exit instead of quit.
 
-<h2 align="left">4. <code>cmatrix</code></h2>
+# <h2 align="left">4. <code>cmatrix</code></h2>
 
 -- This command creates a falling green text effect in your terminal, similar to the Matrix movie. What programmer doesn’t wish they coud read and write code like in the matrix?
 
 ![Screenshot 2024-06-09 135747](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/5107765a-5bea-44ca-bb25-2abaee3386ec)
 
-## To install CMatrix on Debian-based distros like Ubuntu --
+### To install CMatrix on Debian-based distros like Ubuntu --
 
 <code>sudo apt install cmatrix</code>
 
-## On Arch Linux and its derivatives -->
+### On Arch Linux and its derivatives -->
 
 <code>sudo pacman -S cmatrix</code>
 
-## On RHEL-based distros like Fedora -->
+### On RHEL-based distros like Fedora -->
 
 <code>sudo dnf install cmatrix</code>
 
 ### When you want to quit from this screen just press "q" or "ctrl + c"
 
-<h2 align="left">5. <code>cowsay</code></h2>
+# <h2 align="left">5. <code>cowsay</code></h2>
 
 -- Cowsay will turn text into happy ASCII cows
+
+![Screenshot 2024-06-09 170156](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/2e334103-f6a7-47b1-9f20-dad8e386406e)
+
+### To install cowsay on Debian and Ubuntu -->
+
+<code>sudo apt install cowsay</code>
+
+### On Arch Linux -->
+
+<code>sudo pacman -S cowsay</code>
+
+### On Fedora, CentOS, and RHEL -->
+
+<code>sudo dnf install cowsay</code>
+
+#### After installing the command, run it like this:
+<code>cowsay "YOUR_STRING"</code>
+
+# <h2 align="left">6. <code>espeak</code></h2>
+
+--espeak is a text-to-speech utility that converts a specified string to speech and returns the output in real time 
+
+![s](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/07011f1b-9886-424c-b939-939ed7c45e41)
+
+### On Ubuntu/Debian --->
+
+<code>sudo apt install espeak</code>
+
+### You can install espeak on Arch Linux from the AUR -->
+
+<code>yay -S espeak</code>
+
+### On Fedora, CentOS, and RHEL -->
+
+<code>sudo dnf install espeak</code>
+
+#### For the test run, you can try specifying a basic string first. Don't forget to turn up your desktop's speaker volume.
+
+<code>espeak "Hello World"</code>
+
+# <h2 align="left">7. <code>figlet</code></h2>
+
+-- A command-line tool that converts user input into ASCII banners
+
+![Screenshot 2024-06-10 003232](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/89e8ff7d-b84c-41d7-8443-5f411d0475f1)
+
+### You can install FIGlet on Debian/Ubuntu using -->
+
+<code>sudo apt install figlet</code>
+
+### To install FIGlet on Arch-based distributions -->
+
+<code>sudo pacman -S figlet</code>
+
+### On Fedora, CentOS, and RHEL -->
+
+<code>sudo dnf install figlet</code>
+
+#### FIGlet uses the following command syntax:
+
+<code>figlet "YOUR_STRING_HERE"</code>
