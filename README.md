@@ -254,3 +254,22 @@ When the program is running, you can do a few things with keyboard buttons.
 #### Running the sl command is very simple.
 
 <code>sl</code>
+
+# <h2 align="left">13. <code>xeyes</code></h2>
+
+-- Xeyes brings a pair of eyes to your desktop. The best part? The eyeballs move depending on your mouse pointer's location
+
+![Screenshot 2024-06-10 022909](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/f8cf3e4c-76d5-4546-b617-35646fd56045)
+
+
+### On Ubuntu and Debian-based distros, you can install xeyes with APT -->
+
+<code>sudo apt install x11-apps</code>
+
+### To install xeyes on Arch-based distros -->
+
+<code>sudo pacman -S xorg-xeyes</code>
+
+### On Fedora, CentOS, and RHEL -->
+
+<code>sudo dnf install xeyes</code>
