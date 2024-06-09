@@ -196,3 +196,21 @@ When the program is running, you can do a few things with keyboard buttons.
 ### Installing oneko on RHEL-based distros like Fedora and CentOS is easy as well -->
 
 <code>sudo yum install oneko</code>
+
+# <h2 align="left">10. <code>rig</code></h2>
+
+ --Want to quickly generate a fake identity for some reason? rig is what you need
+
+![Screenshot 2024-06-10 020505](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/9e45f136-2634-4a33-bf31-81b2b463f888)
+
+### To install rig on Ubuntu and Debian -->
+
+<code>sudo apt install rig</code>
+
+### On Arch-based distributions -->
+
+<code>yay -S rig</code>
+
+### On RHEL-based distros like Fedora and CentOS -->
+
+<code>sudo dnf install rig</code> 
