@@ -160,3 +160,22 @@ When the program is running, you can do a few things with keyboard buttons.
 #### FIGlet uses the following command syntax:
 
 <code>figlet "YOUR_STRING_HERE"</code>
+
+# <h2 align="left">8. <code>fortune</code></h2>
+
+-- Want to read a quote? Maybe something funny, or perhaps an educational message? The excitement is there every time you run fortune
+
+![Screenshot 2024-06-10 012752](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/353a0517-bd89-4914-83fa-88f528bcf842)
+
+### To install fortune on Ubuntu/Debian -->
+
+<code>sudo apt install fortune</code>
+
+### On Arch Linux and similar distributions -->
+
+<code>sudo pacman -S fortune-mod</code>
+
+### Installing fortune on RHEL-based distros like Fedora and CentOS is easy as well -->
+
+<code>sudo dnf install fortune-mod</code>
+
