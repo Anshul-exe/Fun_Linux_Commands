@@ -199,7 +199,7 @@ When the program is running, you can do a few things with keyboard buttons.
 
 # <h2 align="left">10. <code>rig</code></h2>
 
- --Want to quickly generate a fake identity for some reason? rig is what you need
+ --Want to quickly generate a fake identity for some reason? rig is what you need (Not for me tho)
 
 ![Screenshot 2024-06-10 020505](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/9e45f136-2634-4a33-bf31-81b2b463f888)
 
@@ -214,3 +214,5 @@ When the program is running, you can do a few things with keyboard buttons.
 ### On RHEL-based distros like Fedora and CentOS -->
 
 <code>sudo dnf install rig</code> 
+
+# <h2 align="left">11. <code>toilet</code></h2>
