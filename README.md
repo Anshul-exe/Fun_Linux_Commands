@@ -219,6 +219,8 @@ When the program is running, you can do a few things with keyboard buttons.
 
 -- The <code>toilet</code> command generates visually appealing ASCII art text-based banners or large letters using various fonts in the terminal
 
+![Screenshot 2024-06-10 021824](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/e2625f87-99a8-40d0-aa35-bc6d3ccebff5)
+
 ### To install toilet on Ubuntu and Debian -->
 
 <code>sudo apt install toilet</code>
