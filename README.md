@@ -76,3 +76,26 @@ When the program is running, you can do a few things with keyboard buttons.
 #### When you are done Press Ctrl + ], Type quit, and Press Enter.
 #### Alternatively, you can type exit instead of quit.
 
+<h2 align="left">4. <code>cmatrix</code></h2>
+
+-- This command creates a falling green text effect in your terminal, similar to the Matrix movie. What programmer doesn’t wish they coud read and write code like in the matrix?
+
+![Screenshot 2024-06-09 135747](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/5107765a-5bea-44ca-bb25-2abaee3386ec)
+
+## To install CMatrix on Debian-based distros like Ubuntu --
+
+<code>sudo apt install cmatrix</code>
+
+## On Arch Linux and its derivatives -->
+
+<code>sudo pacman -S cmatrix</code>
+
+## On RHEL-based distros like Fedora -->
+
+<code>sudo dnf install cmatrix</code>
+
+### When you want to quit from this screen just press "q" or "ctrl + c"
+
+<h2 align="left">5. <code>cowsay</code></h2>
+
+-- Cowsay will turn text into happy ASCII cows
