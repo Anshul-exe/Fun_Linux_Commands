@@ -232,3 +232,25 @@ When the program is running, you can do a few things with keyboard buttons.
 ### On RHEL-based distros like Fedora and CentOS -->
 
 <code>sudo dnf install toilet</code> 
+
+# <h2 align="left">12. <code>sl</code></h2>
+
+-- Everyone loves trains, especially steam locomotives. The Linux utility sl brings your favorite steam locomotive to your desk, using the terminal of course
+
+![Screenshot 2024-06-10 022123](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/05333402-b5f7-4f88-8361-6a9387bbbf5a)
+
+### Installing sl on Ubuntu and Debian is easy -->
+
+<code>sudo apt install sl</code>
+
+### Similarly, on Arch-based distributions -->
+
+<code>sudo pacman -S sl</code>
+
+### On Fedora, CentOS, and RHEL -->
+
+<code>sudo dnf install sl</code>
+
+#### Running the sl command is very simple.
+
+<code>sl</code>
