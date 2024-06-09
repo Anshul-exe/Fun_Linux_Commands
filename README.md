@@ -183,6 +183,8 @@ When the program is running, you can do a few things with keyboard buttons.
 
 -- The “oneko” is a package that will attach a “Jerry” with your mouse pointer and moves along with your pointer
 
+![d](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/a198a526-9e44-48a5-b1f5-b07e5f6faf40)
+
 ### To install oneko on Ubuntu/Debian -->
 
 <code>sudo apt install oneko</code>
