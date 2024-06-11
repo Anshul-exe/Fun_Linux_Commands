@@ -100,7 +100,7 @@ When the program is running, you can do a few things with keyboard buttons.
 
 -- Cowsay will turn text into happy ASCII cows
 
-![Screenshot 2024-06-09 170156](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/2e334103-f6a7-47b1-9f20-dad8e386406e)
+![Screenshot 2024-06-11 174538](https://github.com/Anshul-exe/Fun_Linux_Commands/assets/151395342/b07266a1-885c-4452-bee3-1b47009b418c)
 
 ### To install cowsay on Debian and Ubuntu -->
 
